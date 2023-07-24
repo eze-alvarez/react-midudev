@@ -1,0 +1,5 @@
+http://www.omdbapi.com/?apikey=8915162d&
+
+http://www.omdbapi.com/?i=tt3896198&apikey=8915162d
+
+https://www.omdbapi.com/?apikey=8915162d&s=rocky
